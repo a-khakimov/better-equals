@@ -1,0 +1,4 @@
+<plugin>
+    <name>better-equals</name>
+    <classname>org.ainr.equals.BetterEquals</classname>
+</plugin>
